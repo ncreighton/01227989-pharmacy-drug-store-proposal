@@ -1,2 +1,25 @@
-# 01227989-pharmacy-drug-store-proposal
-Stop spending hours drafting pharmacy proposals from scratch—this pack gives you ready-to-use, legally sound templates so you can close deals faster and focus on patient care.  This pack solves the pain of creating professional proposals and contracts for pharmacy services, partnerships, or drug supply deals. It’s the only set designed specifically
+# Pharmacy & Drug Store Proposal and Contract Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gMbJ1dPpaQAe00cDWd0p0N)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gMbJ1dPpaQAe00cDWd0p0N)
+
